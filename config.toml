@@ -1,6 +1,6 @@
 baseurl = "https://duncanjohnson.ca/"  # End your URL with a `/` trailing slash.
 title = "Duncan Johnson"
-copyright = "&copy; 2016 Duncan Johnson"
+copyright = "&copy; 2017 Duncan Johnson"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
