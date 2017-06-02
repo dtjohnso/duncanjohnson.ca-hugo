@@ -86,7 +86,8 @@ defaultContentLanguageInSubdir = false
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   custom_css = []
-  custom_js  = []
+  custom_js  = ["reftagger.min.js"]
+  # custom_js  = ["cryptx.js"]
 
   # Publication types.
   #   Used to categorize publications.
