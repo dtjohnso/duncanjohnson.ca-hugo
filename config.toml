@@ -3,7 +3,7 @@ title = "Duncan Johnson"
 copyright = "&copy; 2016 Duncan Johnson"
 theme = "academic"
 enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
+footnotereturnlinkcontents = "↩"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
