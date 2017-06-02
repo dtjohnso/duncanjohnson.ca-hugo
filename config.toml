@@ -1,6 +1,6 @@
-baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
-title = "Academic"
-copyright = "&copy; 2016 Your Name"
+baseurl = "https://duncanjohnson.ca/"  # End your URL with a `/` trailing slash.
+title = "Duncan Johnson"
+copyright = "&copy; 2016 Duncan Johnson"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -19,16 +19,16 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  name = "Duncan Johnson"
+  role = "Owner"
+  organization = "Duncan Johnson Professional Services"
   organization_url = ""
-  avatar = "portrait.jpg"
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "duncan_gravatar.jpg"
+  email = "duncan@duncanjohnson.ca"
+  address = "PO Box 92117, Meadowbrook RPO, Edmonton, AB T6T 1N1"
+  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "780-995-5855"
+  skype = "dtk.johnson"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -125,22 +125,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:duncan@duncanjohnson.ca"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/dtjohnso"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  # [[params.social]]
+  # icon = "google-scholar"
+  # icon_pack = "ai"
+  # link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/dtjohnso"
 
 
 # Navigation Links
